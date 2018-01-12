@@ -1,0 +1,39 @@
+* {font-family: 'Quicksand', sans-serif;}
+.dyn{color: yellow;}
+[aos="fade"] {
+  opacity: 0;
+  transition-property: opacity;
+}
+
+[aos="fade"].aos-animate {
+  opacity: 1;
+}
+.butt1 {
+	display: flex;
+	flex-direction: column;
+	margin-left: 7%;
+	margin-top: 10%;
+	padding: 1% 1%;
+	transition-duration: 0.2s;
+	transform-style: flat;
+	transform-origin:right;
+	background-color: yellow;
+	border-radius: 20px;
+	font-size: 24px;
+	color: black;
+	align-content: center;
+	border: thick rgba(13,78,115,1.00);
+	width:60%;
+}
+.butt1:hover{
+	color:rgba(157,173,36,1.00);
+	background-color: black;
+	font-size: 23px;
+	width: 30%;
+	height: 70%;
+}
+.serLogo {
+	float: inherit;
+	width: 40px;
+	height: 40px;
+}
