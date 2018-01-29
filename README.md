@@ -1,4 +1,5 @@
 # Portfolio Site: 
+https://github.com/teamrit/teamrit.github.io/blob/master/images/coding-screen2.jpg?raw=true
 ## Also the first commit was the final assignment for the Web and Internet Fundamental Course for which I was awarded full marks for the assignment.
 # teamrit.github.io
 This repository contains all the files used in making the portfolio site that I made for myself
