@@ -9,5 +9,7 @@ This repository contains all the files used in making the portfolio site that I 
 * JavaScript
 * Bootstrap
 ## Softwares Used:
-* Adobe Dreamweaver: This software was mainly used for coding the website. Also the basic starter template was grabbed from this software.
-* Google Chrome: This was the main browser used to debug my code using google chrome developer tools.
+* ### Adobe Dreamweaver: 
+This software was mainly used for coding the website. Also the basic starter template was grabbed from this software.
+* ### Google Chrome: 
+This was the main browser used to debug my code using google chrome developer tools.
