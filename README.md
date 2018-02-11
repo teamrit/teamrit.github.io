@@ -1,15 +1,35 @@
-# Portfolio Site: 
-![alt text](https://github.com/teamrit/teamrit.github.io/blob/master/images/coding-screen2.jpg "Screenshot of my website")
-## Also the first commit was the final assignment for the Web and Internet Fundamental Course for which I was awarded full marks for the assignment.
-# teamrit.github.io
-This repository contains all the files used in making the portfolio site that I made for myself
-## Technologies Used:
-* HTML
-* CSS
-* JavaScript
-* Bootstrap
-## Softwares Used:
-* ### Adobe Dreamweaver: 
-This software was mainly used for coding the website. Also the basic starter template was grabbed from this software.
-* ### Google Chrome: 
-This was the main browser used to debug my code using google chrome developer tools.
+# Description
+|||
+|-------------: | :------------- |
+ **Project Name**                    | Final Website Submission|
+ **Project Description**             | Contains all of the files submitted for the final project of making a portfolio. |
+ **Created During**                  | First Semester of COPR Program at Georgian College, Barrie, ON. |
+ **Created for**                     | Web and Internet Fundamentals Course ( **COMP 1008** ) |
+ **Remarks**                         | _"Displayed use of all of the technologies taught in Class"_|
+ **Remarks by:**                     | **Jessica Gilfilan** (Course Instructor)
+ **Date** | December, 2017
+
+# Softwares:
+
+|  Name  |Purpose | 
+| ------------- | ------------- |
+| Adobe Dreamweaver  | Code Editor  |
+| Google Chrome   | Developer Tools, Troubleshooting  |
+| Other browsers, platforms | Ensure compatibility and Responsiveness |
+
+# Languages:
+
+|  Name  |Purpose | 
+| ------------- | ------------- |
+| HTML  | Markup and Structure  |
+| CSS   | Styling  |
+| Javascript  | Functionality |
+
+# Frameworks:
+
+|  Name  |Purpose | 
+| ------------- | ------------- |
+| jQuery  | UI enhancement  |
+| Bootstrap  | UI enhancement, Responsiveness  |
+
+
